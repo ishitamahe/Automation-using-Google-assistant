@@ -5,15 +5,15 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "dg1"
-#define WLAN_PASS       "Ashi@98563"
+#define WLAN_SSID       "WiFi_name"
+#define WLAN_PASS       "Password"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883       //1883 is mqtt port number            
-#define AIO_USERNAME  "ishita1718"
-#define AIO_KEY       "aio_raNh779iHAgSlV6fRynwtEgj43lE"
+#define AIO_USERNAME  "ishi1817096"
+#define AIO_KEY       "aio_raNh779iHAgSlV6fRynwtEgj43lEerc"
 
 /************ Global State (you don't need to change this!) ******************/
 
